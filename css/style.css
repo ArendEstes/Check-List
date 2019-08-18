@@ -136,6 +136,11 @@ body{
     color: #4162f6;
 }
 
+.add-to-do i:hover{
+    cursor: pointer;
+    text-shadow: 1px 3px 5px #000;
+}
+
 .add-to-do input{
     position: absolute;
     left: 50px;
